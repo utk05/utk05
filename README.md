@@ -2,9 +2,8 @@
 <h3 align="center">AI Engineer | Building systems that go beyond the demo</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Computer+Vision+%26+NLP+builder;AIR+33+%40+IIT+Bombay+NEC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+Engineer;LLMs+%2B+RAG+%2B+Agentic+AI;AIR+33+%40+IIT+Bombay+NEC" alt="Typing SVG" />
 </p>
-
 <br>
 
 - Current focus: ·Agentic AI ·RAG pipelines ·LLM fine-tuning ·Generative AI

@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Uzma</h1>
+<h1 align="left">Hi, I'm Uzma</h1>
 <h3 align="center">AI Engineer | Building systems that go beyond the demo</h3>
 
 <p align="center">
